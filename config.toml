@@ -1,3 +1,17 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://example.com"
+title = "Brian Cevallos Fujiy"
+theme = "hugo-theme-robotico"
+paginate = 3
+
+[params]
+description = "Brian Cevallos Fujiy"
+logofile = "img/profile.jpg"
+faviconfile = "img/profile.jpg"
+#copyright = "Wiley McKay Conte 2018"
+#github = "wileybaba"
+#email = "baba@example.com"
+#twitter = "wiley_baba"
+#instagram = "wileybaba"
+#fork = "github.com/wileybaba/Robotico_hugo_theme"
+progressively = true
+defaultContentLanguage = 'en'
