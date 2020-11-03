@@ -23,7 +23,7 @@ language = "en"
 
 * **"Mining, Agriculture, and Deforestation in the Peruvian Amazon"** with [Heitor Pellegrina](https://sites.google.com/site/heitorpellegrina/) and [Sebastian Sotelo](http://www-personal.umich.edu/~ssotelo/)
 
-* **"Currency Mismatches and Production Networks"** with Maria Alejandra Amado
+* **"Currency Mismatches and Production Networks: The role of sectoral linkages in amplifying balance sheet effects"** with [Maria Alejandra Amado](https://www.mariaamado.com/)
 
 * **"When Dollar Liquidity is Queen: An Insight on Exchange Rate Behavior in EMEs"** with [Liliana Rojas-Suarez](https://www.cgdev.org/expert/liliana-rojas-suarez)
 
