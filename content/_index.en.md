@@ -1,6 +1,6 @@
 
 +++
-title = "Home"
+title = "Economics"
 language = "en"
 +++
 
