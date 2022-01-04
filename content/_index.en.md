@@ -1,13 +1,13 @@
 
 +++
-title = "Economics"
+title = "Research"
 language = "en"
 +++
 
 ---
 
 **Profile:** PhD Candidate | Economics | University of Michigan \
-**Fields:** Economic Geography + Production Networks \
+**Fields:** International Trade + Economic Geography + Macroeconomics \
 **Email:** bcfujiy@umich.edu \
 [*CV*](https://www.dropbox.com/s/56c12rbcmbr0ae1/CV_BCF_11.17.2021.pdf?dl=0)
 
