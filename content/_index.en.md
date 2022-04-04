@@ -9,7 +9,7 @@ language = "en"
 **Profile:** PhD Candidate | Economics | University of Michigan \
 **Fields:** International Trade | Economic Geography | Macroeconomics \
 **Email:** bcfujiy[at]umich.edu \
-[*CV*](https://www.dropbox.com/s/iknmtzaljwhg6kr/CV_BCF_2.11.2022.pdf?dl=0)
+[*CV*](https://www.dropbox.com/s/xgyrpxktzx5gpvg/CV_BCF_3.23.2022.pdf?dl=0)
 
 ---
 
