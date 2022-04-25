@@ -9,7 +9,7 @@ language = "en"
 **Profile:** PhD Candidate | Economics | University of Michigan \
 **Fields:** International Trade | Economic Geography | Macroeconomics \
 **Contact:** bcfujiy[at]umich.edu \
-**Links:** [*CV*](https://www.dropbox.com/s/d8vbcrdtwx0vagx/CV_BCF_3.23.2022.pdf?dl=0) | [*Teaching*](https://www.dropbox.com/s/0xi3o00x3f80anp/TeachEval_BCF.pdf?dl=0)
+**Links:** [*CV*](https://www.dropbox.com/s/dh6fxl5zsf5isvj/CV_BCF_3.23.2022.pdf?dl=0) | [*Teaching*](https://www.dropbox.com/s/0xi3o00x3f80anp/TeachEval_BCF.pdf?dl=0)
 
 ---
 
@@ -30,6 +30,3 @@ language = "en"
 * ***"Mining, Agriculture, and Deforestation in the Peruvian Amazon"*** with [Heitor Pellegrina](https://sites.google.com/site/heitorpellegrina/) and [Sebastian Sotelo](http://www-personal.umich.edu/~ssotelo/)
 
 * ***"Economies of Scope in Transportation and Trade Costs"*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Brock Rowberry](https://lsa.umich.edu/econ/people/phd-students/brock-rowberry.html)
-
-* ***"Production Networks and Currency Mismatches"*** with [Maria Alejandra Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal/)
-
