@@ -9,13 +9,13 @@ language = "en"
 **Profile:** PhD Candidate | Economics | University of Michigan \
 **Fields:** International Trade | Economic Geography | Macroeconomics \
 **Contact:** bcfujiy[at]umich.edu \
-**Links:** [*CV*](https://www.dropbox.com/s/dh6fxl5zsf5isvj/CV_BCF_3.23.2022.pdf?dl=0) | [*Teaching*](https://www.dropbox.com/s/0xi3o00x3f80anp/TeachEval_BCF.pdf?dl=0)
+**Links:** [*CV*](https://www.dropbox.com/s/p414bpxgv8j9uho/CV_BCF_4.30.2022.pdf?dl=0) | [*Teaching*](https://www.dropbox.com/s/0xi3o00x3f80anp/TeachEval_BCF.pdf?dl=0)
 
 ---
 
 ## Working Papers
 
-* [***"Production Networks and Firm-level Elasticities of Substitution"***](https://www.imf.org/-/media/Files/Conferences/2021/arc-2021/session-4-ghose-et-al.ashx) with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/)
+* ***"Production Networks and Firm-level Elasticities of Substitution"*** with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/)
 
 ---
 
