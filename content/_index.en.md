@@ -9,7 +9,7 @@ language = "en"
 **Profile:** PhD Candidate | Economics | University of Michigan \
 **Fields:** International Trade | Economic Geography | Macroeconomics \
 **Contact:** bcfujiy[at]umich.edu \
-**Links:** [*CV*](https://www.dropbox.com/s/p414bpxgv8j9uho/CV_BCF_4.30.2022.pdf?dl=0) | [*Teaching*](https://www.dropbox.com/s/0xi3o00x3f80anp/TeachEval_BCF.pdf?dl=0)
+**Links:** [*CV*](https://www.dropbox.com/s/sw1l304qfmaxtd5/CV_BCF.pdf?dl=0) | [*Teaching*](https://www.dropbox.com/s/0xi3o00x3f80anp/TeachEval_BCF.pdf?dl=0) | [*UM landpage*](https://prod.lsa.umich.edu/econ/people/phd-students/brian-cevallos-fujiy.html)
 
 ---
 
