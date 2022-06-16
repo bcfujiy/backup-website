@@ -9,7 +9,7 @@ language = "en"
 **Profile:** PhD Candidate | Economics | University of Michigan \
 **Fields:** International Trade | Economic Geography | Macroeconomics \
 **Contact:** bcfujiy[at]umich.edu \
-**Links:** [*CV*](https://www.dropbox.com/s/sw1l304qfmaxtd5/CV_BCF.pdf?dl=0) | [*Teaching*](https://www.dropbox.com/s/0xi3o00x3f80anp/TeachEval_BCF.pdf?dl=0) | [*UM landpage*](https://prod.lsa.umich.edu/econ/people/phd-students/brian-cevallos-fujiy.html)
+**Links:** [*CV*](https://www.dropbox.com/s/us49fv9s6dgxak1/CV_BCF.pdf?dl=0) | [*Teaching*](https://www.dropbox.com/s/0xi3o00x3f80anp/TeachEval_BCF.pdf?dl=0) | [*UM landpage*](https://prod.lsa.umich.edu/econ/people/phd-students/brian-cevallos-fujiy.html)
 
 ---
 
@@ -25,7 +25,9 @@ language = "en"
 
 * ***"Cross Border Intra-Firm Trade and the Propagation of Idiosyncratic Shocks"*** with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/)
 
-* ***"Production Networks and Social Proximity"*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://lsa.umich.edu/econ/people/phd-students/htoma.html)
+* ***"Cultural Proximity and Production Networks"*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://lsa.umich.edu/econ/people/phd-students/htoma.html)
+
+* ***"Currency Mismatches and Production Networks"*** with [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
 
 * ***"Mining, Agriculture, and Deforestation in the Peruvian Amazon"*** with [Heitor Pellegrina](https://sites.google.com/site/heitorpellegrina/) and [Sebastian Sotelo](http://www-personal.umich.edu/~ssotelo/)
 
