@@ -13,22 +13,36 @@ language = "en"
 
 ---
 
+**STATUS:** On the job market 2022-23 + available for interviews
+
+---
+
 ## Working Papers
 
-* ***"Production Networks and Firm-level Elasticities of Substitution"*** with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/)
+* ***"The Geography of Inventors and Aggregate Productivity"*** *[Job Market Paper]*
+
+* ***"Production Networks and Firm-level Elasticities of Substitution"*** \
+with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/)
+
+* ***"Cross Border Intra-Firm Trade and the Propagation of Idiosyncratic Shocks"*** \
+with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/)
+  ###### [[*Technical note*]](https://publications.iadb.org/publications/english/document/Cross-Border-Intra-Firm-Trade-and-the-Propagation-of-Idiosyncratic-Shocks-A-New-Dataset.pdf)
+
+* ***"Cultural Proximity and Production Networks"*** \
+with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://lsa.umich.edu/econ/people/phd-students/htoma.html)
 
 ---
 
 ## Research in Progress
 
-* ***"The Geography of Inventors and Aggregate Productivity"*** *[Job Market Paper]*
+* ***"Mining, Agriculture, and Deforestation in the Peruvian Amazon"*** \
+with [Heitor Pellegrina](https://sites.google.com/site/heitorpellegrina/) and [Sebastian Sotelo](http://www-personal.umich.edu/~ssotelo/)
 
-* ***"Cross Border Intra-Firm Trade and the Propagation of Idiosyncratic Shocks"*** with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/)
+* ***"Economies of Scope in Transportation and Trade Costs"*** \
+with [Gaurav Khanna](https://www.econgaurav.com/) and [Brock Rowberry](https://lsa.umich.edu/econ/people/phd-students/brock-rowberry.html)
 
-* ***"Cultural Proximity and Production Networks"*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://lsa.umich.edu/econ/people/phd-students/htoma.html)
+* ***"Currency Mismatches and Production Networks"*** \
+with [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
 
-* ***"Currency Mismatches and Production Networks"*** with [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
 
-* ***"Mining, Agriculture, and Deforestation in the Peruvian Amazon"*** with [Heitor Pellegrina](https://sites.google.com/site/heitorpellegrina/) and [Sebastian Sotelo](http://www-personal.umich.edu/~ssotelo/)
 
-* ***"Economies of Scope in Transportation and Trade Costs"*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Brock Rowberry](https://lsa.umich.edu/econ/people/phd-students/brock-rowberry.html)
