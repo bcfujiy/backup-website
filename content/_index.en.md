@@ -21,16 +21,14 @@ language = "en"
 
 * ***"The Geography of Inventors and Aggregate Productivity"*** *[Job Market Paper]*
 
-* ***["Production Networks and Firm-level Elasticities of Substitution"](https://www.dropbox.com/s/3rl5kojr4cwhmld/Draft_V4.pdf?dl=0)*** \
+* ***["Production Networks and Firm-level Elasticities of Substitution"](https://www.dropbox.com/s/3rl5kojr4cwhmld/Draft_V4.pdf?dl=0)*** [Forthcoming STEG WP] \
 with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/)
-  ###### [Forthcoming STEG WP]
-
-* ***"Cross Border Intra-Firm Trade and the Propagation of Idiosyncratic Shocks"*** \
-with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/)
-  ###### [[*Technical note*]](https://publications.iadb.org/publications/english/document/Cross-Border-Intra-Firm-Trade-and-the-Propagation-of-Idiosyncratic-Shocks-A-New-Dataset.pdf)
 
 * ***"Cultural Proximity and Production Networks"*** \
 with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://lsa.umich.edu/econ/people/phd-students/htoma.html)
+
+* ***"Cross Border Intra-Firm Trade and the Propagation of Idiosyncratic Shocks"*** [[*IADB-TN-2398*](https://publications.iadb.org/publications/english/document/Cross-Border-Intra-Firm-Trade-and-the-Propagation-of-Idiosyncratic-Shocks-A-New-Dataset.pdf)] \
+with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/)
 
 ---
 
