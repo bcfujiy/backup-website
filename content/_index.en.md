@@ -9,7 +9,7 @@ language = "en"
 **Profile:** PhD Candidate | Economics | University of Michigan \
 **Fields:** International Economics | Macroeconomics \
 **Contact:** bcfujiy[at]umich.edu | +1 (202) 768-2063 \
-**Links:** [*CV*](https://www.dropbox.com/s/35yhnfasfme6mgl/CV_BCF.pdf?dl=0) | [*Teaching*](https://www.dropbox.com/s/0xi3o00x3f80anp/TeachEval_BCF.pdf?dl=0) | [*Official website*](https://prod.lsa.umich.edu/econ/people/phd-students/brian-cevallos-fujiy.html)
+**Links:** [*CV*](https://www.dropbox.com/s/cdmddl2g2a669b6/CV_BCF.pdf?dl=0) | [*Teaching*](https://www.dropbox.com/s/0xi3o00x3f80anp/TeachEval_BCF.pdf?dl=0) | [*Official website*](https://prod.lsa.umich.edu/econ/people/phd-students/brian-cevallos-fujiy.html)
 
 ---
 
@@ -19,12 +19,12 @@ language = "en"
 
 ## Working Papers
 
-* ***"The Geography of Inventors and Aggregate Productivity"*** *[Job Market Paper]*
+* ***"Spatial Knowledge Spillovers in R&D and Aggregate Productivity: Evidence from the Reunification of Germany"*** *[Job Market Paper]*
 
 * ***["Production Networks and Firm-level Elasticities of Substitution"](https://www.dropbox.com/s/3rl5kojr4cwhmld/Draft_V4.pdf?dl=0)*** [Forthcoming STEG WP] \
 with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/)
 
-* ***"Cultural Proximity and Production Networks"*** \
+* ***["Cultural Proximity and Production Networks"](https://drive.google.com/file/d/1eaFd6PRM7CWm5YwaDeOplfyXrMLEQFw1/view?usp=sharing)*** \
 with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://lsa.umich.edu/econ/people/phd-students/htoma.html)
 
 * ***"Cross Border Intra-Firm Trade and the Propagation of Idiosyncratic Shocks"*** [[*IADB-TN-2398*](https://publications.iadb.org/publications/english/document/Cross-Border-Intra-Firm-Trade-and-the-Propagation-of-Idiosyncratic-Shocks-A-New-Dataset.pdf)] \
@@ -42,6 +42,3 @@ with [Gaurav Khanna](https://www.econgaurav.com/) and [Brock Rowberry](https://l
 
 * ***"Currency Mismatches and Production Networks"*** \
 with [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
-
-
-
