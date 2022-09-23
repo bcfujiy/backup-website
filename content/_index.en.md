@@ -21,24 +21,21 @@ language = "en"
 
 * ***"Spatial Knowledge Spillovers in R&D and Aggregate Productivity: Evidence from the Reunification of Germany"*** *[Job Market Paper]*
 
-* ***["Production Networks and Firm-level Elasticities of Substitution"](https://www.dropbox.com/s/3rl5kojr4cwhmld/Draft_V4.pdf?dl=0)*** [Forthcoming STEG WP] \
-with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/)
+* ***["Production Networks and Firm-level Elasticities of Substitution"](https://www.dropbox.com/s/3rl5kojr4cwhmld/Draft_V4.pdf?dl=0)*** with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/) \
+[[STEG WP027](https://steg.cepr.org/sites/default/files/2022-09/WP027%20CevallosFujiyGhoseKhanna%20ProductionNetworksAndFirmLevelElasticitiesOfSubstitution_0.pdf)]
 
-* ***["Cultural Proximity and Production Networks"](https://drive.google.com/file/d/1eaFd6PRM7CWm5YwaDeOplfyXrMLEQFw1/view?usp=sharing)*** \
-with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://lsa.umich.edu/econ/people/phd-students/htoma.html)
+* ***["Cultural Proximity and Production Networks"](https://drive.google.com/file/d/1eaFd6PRM7CWm5YwaDeOplfyXrMLEQFw1/view?usp=sharing)*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://hiroshitoma.github.io/) \
+[Forthcoming STEG WP]
 
-* ***"Cross Border Intra-Firm Trade and the Propagation of Idiosyncratic Shocks"*** [[*IADB-TN-2398*](https://publications.iadb.org/publications/english/document/Cross-Border-Intra-Firm-Trade-and-the-Propagation-of-Idiosyncratic-Shocks-A-New-Dataset.pdf)] \
-with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/)
+* ***"Cross Border Intra-Firm Trade and the Propagation of Idiosyncratic Shocks"*** with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/) \
+[[*IADB-TN-2398*](https://publications.iadb.org/publications/english/document/Cross-Border-Intra-Firm-Trade-and-the-Propagation-of-Idiosyncratic-Shocks-A-New-Dataset.pdf)]
 
 ---
 
 ## Research in Progress
 
-* ***"Mining, Agriculture, and Deforestation in the Peruvian Amazon"*** \
-with [Heitor Pellegrina](https://sites.google.com/site/heitorpellegrina/) and [Sebastian Sotelo](http://www-personal.umich.edu/~ssotelo/)
+* ***"Mining, Agriculture, and Deforestation in the Peruvian Amazon"*** with [Heitor Pellegrina](https://sites.google.com/site/heitorpellegrina/) and [Sebastian Sotelo](http://www-personal.umich.edu/~ssotelo/)
 
-* ***"Economies of Scope in Transportation and Trade Costs"*** \
-with [Gaurav Khanna](https://www.econgaurav.com/) and [Brock Rowberry](https://lsa.umich.edu/econ/people/phd-students/brock-rowberry.html)
+* ***"Economies of Scope in Transportation and Trade Costs"*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Brock Rowberry](https://lsa.umich.edu/econ/people/phd-students/brock-rowberry.html)
 
-* ***"Currency Mismatches and Production Networks"*** \
-with [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
+* ***"Currency Mismatches and Production Networks"*** with [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
