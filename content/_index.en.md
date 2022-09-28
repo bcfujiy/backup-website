@@ -17,9 +17,15 @@ language = "en"
 
 ---
 
-## Working Papers
+## Job Market Paper
+***"Spatial Knowledge Spillovers in R&D and Aggregate Productivity: Evidence from the Reunification of Germany"*** \
+*Abstract:* The spatial concentration of R&D is crucial for aggregate productivity due to spatial knowledge spillovers. In this paper I provide evidence on spatial knowledge spillovers in R&D. I causally estimate these spillovers by isolating quasi-exogenous variation from the arrival of East German inventors across West German clusters during the Reunification of Germany in 1990. I then build a quantitative spatial model of innovation where the quality of tradable goods is determined by inventors' innovations, which in turn are subject to spatial knowledge spillovers. I estimate the model using a novel administrative matched dataset from German inventors between 1980 and 2014. I use the model to quantify the productivity gains from the reduction of migration costs for inventors, and the implementation of R&D subsidies.
 
-* ***"Spatial Knowledge Spillovers in R&D and Aggregate Productivity: Evidence from the Reunification of Germany"*** *[Job Market Paper]*
+
+
+---
+
+## Working Papers
 
 * ***["Production Networks and Firm-level Elasticities of Substitution"](https://www.dropbox.com/s/3rl5kojr4cwhmld/Draft_V4.pdf?dl=0)*** with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/) \
 [[STEG WP027](https://steg.cepr.org/sites/default/files/2022-09/WP027%20CevallosFujiyGhoseKhanna%20ProductionNetworksAndFirmLevelElasticitiesOfSubstitution_0.pdf)]
