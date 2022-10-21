@@ -6,7 +6,7 @@ language = "en"
 
 ---
 
-**Profile:** PhD Candidate | Economics | University of Michigan \
+**Profile:** Ph.D. Candidate | Economics | University of Michigan \
 **Fields:** International Economics | Macroeconomics \
 **Contact:** bcfujiy@umich.edu | +1 (202) 768-2063 \
 **Links:** [*CV*](https://www.dropbox.com/s/cdmddl2g2a669b6/CV_BCF.pdf?dl=0) | [*Teaching*](https://www.dropbox.com/s/5kv62xiba64c0sl/TeachEval_BCF.pdf?dl=0) | [*UM website*](https://prod.lsa.umich.edu/econ/people/phd-students/brian-cevallos-fujiy.html)
@@ -20,8 +20,6 @@ language = "en"
 ## Job Market Paper
 ***"Spatial Knowledge Spillovers in R&D and Aggregate Productivity: Evidence from the Reunification of Germany"*** \
 *Abstract:* Using a new administrative dataset from German inventors, I causally estimate spatial knowledge spillovers in Research and Development (R&D) by isolating quasi-exogenous variation from the arrival of East German inventors across West German technological clusters after the Reunification of Germany in 1990. I find that doubling the number of inventors raises in a location leads to average inventor productivity gains of 41%. I then build a quantitative spatial model of innovation with spatial knowledge spillovers in R&D, and use it quantify the productivity gains of implementing R&D policies. The model predicts that a 25% reduction in migration costs for inventors leads to a 3.38% increase in aggregate productivity.
-
-
 
 ---
 
