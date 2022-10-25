@@ -19,7 +19,7 @@ language = "en"
 
 ## Job Market Paper
 ***"Spatial Knowledge Spillovers in R&D and Aggregate Productivity: Evidence from the Reunification of Germany"*** \
-*Abstract:* Using a new administrative dataset from German inventors, I causally estimate spatial knowledge spillovers in Research and Development (R&D) by isolating quasi-exogenous variation from the arrival of East German inventors across West German technological clusters after the Reunification of Germany in 1990. I find that doubling the number of inventors raises in a location leads to average inventor productivity gains of 41%. I then build a quantitative spatial model of innovation with spatial knowledge spillovers in R&D, and use it quantify the productivity gains of implementing R&D policies. The model predicts that a 25% reduction in migration costs for inventors leads to a 3.38% increase in aggregate productivity.
+*Abstract:* Using a new administrative dataset from German inventors, I causally estimate spatial knowledge spillovers in Research and Development (R&D) by isolating quasi-exogenous variation from the arrival of East German inventors across West German technological clusters after the Reunification of Germany in 1990. I find that doubling the number of inventors in a location leads to average inventor productivity gains of 41%. I then build a quantitative spatial model of innovation with spatial knowledge spillovers in R&D, and use it quantify the productivity gains of implementing R&D policies. The model predicts that a 25% reduction in migration costs for inventors leads to a 3.38% increase in aggregate productivity.
 
 ---
 
