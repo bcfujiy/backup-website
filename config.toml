@@ -5,7 +5,7 @@ paginate = 3
 
 [params]
 description = "Brian Cevallos Fujiy"
-logofile = "img/profile_jmc.jpg"
+logofile = "img/profilepic_jmc.jpg"
 faviconfile = "img/profile.jpg"
 #copyright = "Wiley McKay Conte 2018"
 #github = "wileybaba"
