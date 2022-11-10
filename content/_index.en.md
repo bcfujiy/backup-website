@@ -9,7 +9,7 @@ language = "en"
 **Profile:** Ph.D. Candidate | Economics | University of Michigan \
 **Fields:** International Economics | Macroeconomics \
 **Contact:** bcfujiy@umich.edu | +1 (202) 768-2063 \
-**Links:** [*CV*](https://bcfujiy.github.io/img/resources/CV_BCF.pdf) | [*Teaching*](https://www.dropbox.com/s/oe8bovwn5vsutd6/TeachEval_BCF.pdf?dl=0) | [*UM website*](https://prod.lsa.umich.edu/econ/people/phd-students/brian-cevallos-fujiy.html)
+**Links:** [*CV*](https://bcfujiy.github.io/img/resources/CV_BCF.pdf) | [*Teaching*](https://bcfujiy.github.io/img/resources/TeachEval_BCF.pdf) | [*UM website*](https://prod.lsa.umich.edu/econ/people/phd-students/brian-cevallos-fujiy.html)
 
 ---
 
@@ -25,10 +25,10 @@ language = "en"
 
 ## Working Papers
 
-* ***["Production Networks and Firm-level Elasticities of Substitution"](https://www.dropbox.com/s/4e5gtdmbs8kbsw5/CFGK_ElastSubst.pdf?dl=0)*** with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/) \
+* ***["Production Networks and Firm-level Elasticities of Substitution"](https://bcfujiy.github.io/img/papers/CFGK_ElastSubst.pdf)*** with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/) \
 [[STEG WP027](https://steg.cepr.org/sites/default/files/2022-09/WP027%20CevallosFujiyGhoseKhanna%20ProductionNetworksAndFirmLevelElasticitiesOfSubstitution_0.pdf)]
 
-* ***["Cultural Proximity and Production Networks"](https://www.dropbox.com/s/qbhl04snkmphuzo/CFKT_CulturalProx.pdf?dl=0)*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://hiroshitoma.github.io/) \
+* ***["Cultural Proximity and Production Networks"](https://bcfujiy.github.io/img/papers/CFKT_CulturalProx.pdf)*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://hiroshitoma.github.io/) \
 [Forthcoming STEG WP]
 
 * ***"Cross Border Intra-Firm Trade and the Propagation of Idiosyncratic Shocks"*** with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/) \
