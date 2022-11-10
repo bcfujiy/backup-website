@@ -9,7 +9,7 @@ language = "en"
 **Profile:** Ph.D. Candidate | Economics | University of Michigan \
 **Fields:** International Economics | Macroeconomics \
 **Contact:** bcfujiy@umich.edu | +1 (202) 768-2063 \
-**Links:** [*CV*](https://bcfujiy.github.io/img/resources/CV_BCF.pdf) | [*Teaching*](https://bcfujiy.github.io/img/resources/TeachEval_BCF.pdf)
+**Resources:** [*CV*](https://bcfujiy.github.io/img/resources/CV_BCF.pdf) | [*Teaching*](https://bcfujiy.github.io/img/resources/TeachEval_BCF.pdf)
 
 ---
 
