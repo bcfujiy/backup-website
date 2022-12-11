@@ -25,11 +25,11 @@ language = "en"
 
 ## Working Papers
 
-* ***["Production Networks and Firm-level Elasticities of Substitution"](https://bcfujiy.github.io/img/papers/CFGK_ElastSubst.pdf)*** with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/) \
-[[STEG WP027](https://steg.cepr.org/sites/default/files/2022-09/WP027%20CevallosFujiyGhoseKhanna%20ProductionNetworksAndFirmLevelElasticitiesOfSubstitution_0.pdf)]
-
-* ***["Cultural Proximity and Production Networks"](https://bcfujiy.github.io/img/papers/CFKT_CulturalProx.pdf)*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://hiroshitoma.github.io/) \
+* ***["Cultural Proximity and Production Networks"](https://bcfujiy.github.io/img/papers/CFKT_CulturalProx.pdf)*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://hiroshitoma.github.io/) - ***Submitted*** \
 [Forthcoming STEG WP]
+
+* ***["Production Networks and Firm-level Elasticities of Substitution"](https://bcfujiy.github.io/img/papers/CFGK_ElastSubst.pdf)*** with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/) - ***To be submitted*** \
+[[STEG WP027](https://steg.cepr.org/sites/default/files/2022-09/WP027%20CevallosFujiyGhoseKhanna%20ProductionNetworksAndFirmLevelElasticitiesOfSubstitution_0.pdf)]
 
 * ***"Cross Border Intra-Firm Trade and the Propagation of Idiosyncratic Shocks"*** with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/) \
 [[*IADB-TN-2398*](https://publications.iadb.org/publications/english/document/Cross-Border-Intra-Firm-Trade-and-the-Propagation-of-Idiosyncratic-Shocks-A-New-Dataset.pdf)]
