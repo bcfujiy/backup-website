@@ -26,7 +26,7 @@ language = "en"
 ## Working Papers
 
 * ***["Cultural Proximity and Production Networks"](https://bcfujiy.github.io/img/papers/CFKT_CulturalProx.pdf)*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://hiroshitoma.github.io/) - ***Submitted*** \
-[[RSIE 686](https://fordschool.umich.edu/rsie/workingpapers/Papers676-700/r686.pdf)] [Forthcoming STEG WP]
+[[RSIE 686](https://fordschool.umich.edu/rsie/workingpapers/Papers676-700/r686.pdf)] [[STEG WP049](https://steg.cepr.org/sites/default/files/2023-01/WP049%20CevallosFujiyKhannaToma%20CulturalProximityAndProductionNetworks.pdf)]
 
 * ***["Production Networks and Firm-level Elasticities of Substitution"](https://bcfujiy.github.io/img/papers/CFGK_ElastSubst.pdf)*** with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/) - ***To be submitted*** \
 [[STEG WP027](https://steg.cepr.org/sites/default/files/2022-09/WP027%20CevallosFujiyGhoseKhanna%20ProductionNetworksAndFirmLevelElasticitiesOfSubstitution_0.pdf)]
