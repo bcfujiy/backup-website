@@ -6,10 +6,11 @@ language = "en"
 
 ---
 
-I will join as an Economist to the Center for Economic Studies (CES) at the U.S. Census Bureau
-
-**Contact:** bcfujiy@umich.edu | +1 (202) 768-2063 \
-**Resume:** [CV](https://bcfujiy.github.io/img/resources/CV_BCF.pdf)
+***Position (July 2023):*** Economist, Center for Economic Studies, U.S. Census Bureau \
+***Education:*** Ph.D. in Economics, University of Michigan \
+***Fields:*** Trade and Spatial Economics | Innovation \
+***Contact:*** bcfujiy@umich.edu | +1 (202) 768-2063 \
+**[CV](https://bcfujiy.github.io/img/resources/CV_BCF.pdf)**
 
 ---
 
