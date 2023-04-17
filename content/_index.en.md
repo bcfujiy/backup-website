@@ -7,21 +7,20 @@ language = "en"
 ---
 
 ***Position (July 2023):*** Economist, Center for Economic Studies, U.S. Census Bureau \
-***Education:*** Ph.D. in Economics, University of Michigan \
-***Fields:*** Trade and Spatial Economics | Innovation \
+***Fields:*** Trade | Spatial | Innovation \
 ***Contact:*** bcfujiy@umich.edu | +1 (202) 768-2063 \
 **[CV](https://bcfujiy.github.io/img/resources/CV_BCF.pdf)**
 
 ---
 
-## Current research
+## Working Papers
 
 * ***["Spatial Knowledge Spillovers in R&D and Aggregate Productivity: Evidence from the Reunification of Germany"](https://bcfujiy.github.io/img/papers/CF_SpilloversRD.pdf)***
 
 * ***["Cultural Proximity and Production Networks"](https://bcfujiy.github.io/img/papers/CFKT_CulturalProx.pdf)*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://hiroshitoma.github.io/) - ***Submitted*** \
 [[RSIE 686](https://fordschool.umich.edu/rsie/workingpapers/Papers676-700/r686.pdf)] [[STEG WP049](https://steg.cepr.org/sites/default/files/2023-01/WP049%20CevallosFujiyKhannaToma%20CulturalProximityAndProductionNetworks.pdf)]
 
-* ***["Production Networks and Firm-level Elasticities of Substitution"](https://bcfujiy.github.io/img/papers/CFGK_ElastSubst.pdf)*** with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/) - ***To be submitted*** \
+* ***["Production Networks and Firm-level Elasticities of Substitution"](https://bcfujiy.github.io/img/papers/CFGK_ElastSubst.pdf)*** with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/) - ***Submitted*** \
 [[STEG WP027](https://steg.cepr.org/sites/default/files/2022-09/WP027%20CevallosFujiyGhoseKhanna%20ProductionNetworksAndFirmLevelElasticitiesOfSubstitution_0.pdf)]
 
 * ***"Cross Border Intra-Firm Trade and the Propagation of Idiosyncratic Shocks"*** with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/) \
