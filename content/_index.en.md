@@ -6,9 +6,9 @@ language = "en"
 
 ---
 
-***Position (July 2023):*** Economist, Center for Economic Studies, U.S. Census Bureau \
+***Position (July 2023):*** Economist, Center for Economic Studies (CES), U.S. Census Bureau \
 ***Fields:*** Trade | Spatial | Innovation \
-***Contact:*** bcfujiy@umich.edu | +1 (202) 768-2063 \
+***Contact:*** bfujiy@gmail.com | +1 (202) 768-2063 \
 **[CV](https://bcfujiy.github.io/img/resources/CV_BCF.pdf)**
 
 ---
