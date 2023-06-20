@@ -15,7 +15,7 @@ language = "en"
 
 ## Working Papers
 
-* ***["Spatial Knowledge Spillovers in R&D and Aggregate Productivity: Evidence from the Reunification of Germany"](https://bcfujiy.github.io/img/papers/CF_SpilloversRD.pdf)***
+* ***["Spatial Knowledge Spillovers in R&D and Aggregate Productivity"](https://bcfujiy.github.io/img/papers/CF_SpilloversRD.pdf)***
 
 * ***["Cultural Proximity and Production Networks"](https://bcfujiy.github.io/img/papers/CFKT_CulturalProx.pdf)*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://hiroshitoma.github.io/) - ***Submitted*** \
 [[RSIE 686](https://fordschool.umich.edu/rsie/workingpapers/Papers676-700/r686.pdf)] [[STEG WP049](https://steg.cepr.org/sites/default/files/2023-01/WP049%20CevallosFujiyKhannaToma%20CulturalProximityAndProductionNetworks.pdf)]
