@@ -4,11 +4,11 @@ title = "Research"
 language = "en"
 +++
 
+*Economist, Center for Economic Studies, U.S. Census Bureau*
+
 ---
 
-***Position (July 2023):*** Economist, Center for Economic Studies, U.S. Census Bureau \
-***Fields:*** Trade | Spatial | Innovation \
-***Contact:*** bfujiy@gmail.com | +1 (202) 768-2063 \
+bfujiy@gmail.com | brian.j.cevallos@census.gov | +1 (202) 768-2063 \
 **[CV](https://bcfujiy.github.io/img/resources/CV_BCF.pdf)**
 
 ---
@@ -35,7 +35,3 @@ language = "en"
 * ***"Economies of Scope in Transportation and Trade Costs"*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Brock Rowberry](https://lsa.umich.edu/econ/people/phd-students/brock-rowberry.html)
 
 * ***"Currency Mismatches and Production Networks"*** with [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
-
----
-
-*This is a personal website. Any results or conclusions in the research presented on this website are my own and do not necessarily represent the views of the U.S. Census Bureau.*

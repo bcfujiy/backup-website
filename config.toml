@@ -5,9 +5,9 @@ paginate = 3
 
 [params]
 description = "Brian Cevallos Fujiy"
-logofile = "img/profile_jmc.jpg"
+#logofile = "img/profile_jmc.jpg"
 faviconfile = "img/logo_census.jpg"
-#copyright = "Wiley McKay Conte 2018"
+copyright = "This is a personal website. Any results or conclusions in the research presented on this website are my own and do not necessarily represent the views of the U.S. Census Bureau."
 #github = "wileybaba"
 #email = "baba@example.com"
 #twitter = "wiley_baba"
