@@ -34,4 +34,4 @@ bfujiy@gmail.com | brian.j.cevallos@census.gov | +1 (202) 768-2063 \
 
 * ***"Economies of Scope in Transportation and Trade Costs"*** with [Gaurav Khanna](https://www.econgaurav.com/) and [Brock Rowberry](https://lsa.umich.edu/econ/people/phd-students/brock-rowberry.html)
 
-* ***"Currency Mismatches and Production Networks"*** with [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
+* ***"Currency Mismatches and Production Networks"*** with [Miguel Acosta-Henao](http://miguelacostah.com/) [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
