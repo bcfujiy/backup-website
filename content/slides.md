@@ -9,4 +9,4 @@ summary: slides
 [[MMM2024](https://bcfujiy.github.io/img/slides/F_LKS_MMM2024.pdf)]
 
 - ***"Cultural Proximity and Inter-Firm Trade"***  \
-[[UEA2024](https://bcfujiy.github.io/img/slides/BCF_Castes_UDEP.pdf)]
+[[UDEP2024d](https://bcfujiy.github.io/img/slides/BCF_Castes_UDEP2024.pdf)]
