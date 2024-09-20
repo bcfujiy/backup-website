@@ -12,4 +12,4 @@ summary: slides
 [[UDEP2024](https://bcfujiy.github.io/img/slides/BCF_Castes_UDEP2024.pdf)]
 
 - ***"Economies of Scope in Transportation and Domestic Trade"***  \
-[[UDEP2024](https://bcfujiy.github.io/img/slides/FKR_scope_UEA2024.pdf)]
+[[UEA2024](https://bcfujiy.github.io/img/slides/FKR_scope_UEA2024.pdf)]
