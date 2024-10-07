@@ -22,7 +22,7 @@ brian.c.fujiy@census.gov \
 * ***["The Geography of Inventors and Local Knowledge Spillovers in R&D"](https://bcfujiy.github.io/img/papers/CF_SpilloversRD.pdf)*** \
 [Supplementary Appendix (Not for publication)](https://bcfujiy.github.io/img/papers/F_SpilloversRD_SuppAppendix.pdf)
 
-* ***["Cultural Proximity and Inter-Firm Trade"](https://bcfujiy.github.io/img/papers/CFKT_CulturalProx.pdf)*** - ***Submitted*** \
+* ***["Cultural Proximity and Inter-Firm Trade"](https://bcfujiy.github.io/img/papers/CFKT_CulturalProx.pdf)*** - ***R&R European Economic Review*** \
 with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://hiroshitoma.github.io/) \
 [[RSIE 686](https://fordschool.umich.edu/rsie/workingpapers/Papers676-700/r686.pdf)] [[STEG WP049](https://steg.cepr.org/sites/default/files/2023-01/WP049%20CevallosFujiyKhannaToma%20CulturalProximityAndProductionNetworks.pdf)]
 
