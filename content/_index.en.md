@@ -19,7 +19,7 @@ brian.c.fujiy@census.gov \
 
 ## Working Papers
 
-* ***["The Geography of Inventors and Local Knowledge Spillovers in R&D"](https://bcfujiy.github.io/img/papers/CF_SpilloversRD.pdf)*** \
+* ***["The Geography of Inventors and Local Knowledge Spillovers in R&D"](https://bcfujiy.github.io/img/papers/F_SpilloversRD.pdf)*** \
 [Supplementary Appendix (Not for publication)](https://bcfujiy.github.io/img/papers/F_SpilloversRD_SuppAppendix.pdf)
 
 * ***["Cultural Proximity and Inter-Firm Trade"](https://bcfujiy.github.io/img/papers/CFKT_CulturalProx.pdf)*** - ***R&R European Economic Review*** \
