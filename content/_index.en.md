@@ -11,8 +11,7 @@ U.S. Census Bureau
 
 ---
 
-bfujiy@gmail.com | +1 (202) 768-2063 \
-brian.c.fujiy@census.gov \
+bfujiy@gmail.com | brian.c.fujiy@census.gov \
 **[CV](https://bcfujiy.github.io/img/resources/CV_BCF.pdf)**
 
 ---
