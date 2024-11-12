@@ -29,6 +29,7 @@ with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://hir
 
 * ***["Production Networks and Firm-level Elasticities of Substitution"](https://bcfujiy.github.io/img/papers/CFGK_ElastSubst.pdf)*** - ***Submitted*** \
 with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/) \
+[[WB-PRWP 10782](https://documents1.worldbank.org/curated/en/099221305222481417/pdf/IDU165af00a1112bd148f61a8701b798b01d483f.pdf)]
 [[STEG WP027](https://steg.cepr.org/sites/default/files/2022-09/WP027%20CevallosFujiyGhoseKhanna%20ProductionNetworksAndFirmLevelElasticitiesOfSubstitution_0.pdf)]
 
 * ***"Cross Border Intra-Firm Trade and the Propagation of Idiosyncratic Shocks"*** \
