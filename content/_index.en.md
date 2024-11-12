@@ -43,8 +43,9 @@ with [Gaurav Khanna](https://www.econgaurav.com/) and [Brock Rowberry](https://l
 
 ## Work in progress
 
-* ***"Mining, Agriculture, and Deforestation in the Peruvian Amazon"*** \
-with [Heitor Pellegrina](https://sites.google.com/site/heitorpellegrina/) and [Sebastian Sotelo](http://www-personal.umich.edu/~ssotelo/)
-
 * ***"Currency Mismatches and Production Networks"*** \
-with [Miguel Acosta-Henao](http://miguelacostah.com/) [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
+with [Miguel Acosta-Henao](http://miguelacostah.com/) and [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
+
+* ***"Measurement Matters: Financial Reporting and Productivity"*** \
+with [John M. Barrios](https://www.johnmbarrios.com/), [Petro Lisowsky](https://www.bu.edu/questrom/profiles/petro-lisowsky/) and [Michael Minnis](https://www.chicagobooth.edu/faculty/directory/m/michael-minnis)
+
