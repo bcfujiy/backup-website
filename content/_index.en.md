@@ -43,6 +43,10 @@ bfujiy@gmail.com | brian.c.fujiy@census.gov \
 
 ## Work in progress
 
+* **"The Link between Fertility and Retirement and its Implications for Family Policy"** with [Ari Binder](https://www.arielbinder.com/), [Paula Calvo](https://www.paulacalvo.net/) and [Long Hong](https://www.long-hong.com/)
+
+* **"Quantifying the Impact of AI on Productivity and Labor Demand: Evidence from U.S. Census Microdata"** with [Dean Alderucci](https://tuck.dartmouth.edu/faculty/faculty-directory/dean-alderucci), Sagar V. Baviskar, [Lee G. Branstetter](https://www.heinz.cmu.edu/faculty-research/profiles/branstetter-lee), [Nathan Goldschlag](https://sites.google.com/site/ngoldschlag), [Eduard Hovy](https://www.cs.cmu.edu/~hovy/), Andrew Runge, [Prasanna Tambe](https://tambep.github.io/) and [Nikolas Zolas](https://sites.google.com/site/nikolaszolas/)
+
 * **"Currency Mismatches and Production Networks"** with [Miguel Acosta-Henao](http://miguelacostah.com/) and [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
 
 * **"Economies of Scope in Transportation and Domestic Trade"** with [Gaurav Khanna](https://www.econgaurav.com/) and [Brock Rowberry](https://lsa.umich.edu/econ/people/phd-students/brock-rowberry.html)
