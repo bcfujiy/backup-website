@@ -26,14 +26,14 @@ bfujiy@gmail.com | brian.c.fujiy@census.gov \
 
 ## Working Papers
 
-* **"How Shocks Travel: The Cross-Border Impact of Natural Disasters in Firm Networks"** with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/), [Angel Espinoza](https://angelespinozae.github.io/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/)
-    - *In Preparation for the IMF Economic Review Special Issue "From Micro to Macro: Leveraging Microdata to Address Macroeconomic Issues"*
-    - [[IADB-TN-2398](https://publications.iadb.org/publications/english/document/Cross-Border-Intra-Firm-Trade-and-the-Propagation-of-Idiosyncratic-Shocks-A-New-Dataset.pdf)]
-
 * **["Production Networks and Firm-level Elasticities of Substitution"](https://bcfujiy.github.io/img/papers/CFGK_ElastSubst.pdf)** with [Devaki Ghose](https://sites.google.com/view/devakighose/home) and [Gaurav Khanna](https://www.econgaurav.com/)
     - [[WB-PRWP 10782](https://documents1.worldbank.org/curated/en/099221305222481417/pdf/IDU165af00a1112bd148f61a8701b798b01d483f.pdf)] [[STEG WP027](https://steg.cepr.org/sites/default/files/2022-09/WP027%20CevallosFujiyGhoseKhanna%20ProductionNetworksAndFirmLevelElasticitiesOfSubstitution_0.pdf)]
 
-* **"Measurement Matters: Financial Reporting and Productivity"** with [John M. Barrios](https://www.johnmbarrios.com/), [Petro Lisowsky](https://www.bu.edu/questrom/profiles/petro-lisowsky/) and [Michael Minnis](https://www.chicagobooth.edu/faculty/directory/m/michael-minnis)
+* **["Measurement Matters: Financial Reporting and Productivity"](https://bcfujiy.github.io/img/papers/BFLM_Auditing.pdf)** with [John M. Barrios](https://www.johnmbarrios.com/), [Petro Lisowsky](https://www.bu.edu/questrom/profiles/petro-lisowsky/) and [Michael Minnis](https://www.chicagobooth.edu/faculty/directory/m/michael-minnis)
+
+* **"How Shocks Travel: The Cross-Border Impact of Natural Disasters in Firm Networks"** with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/), [Angel Espinoza](https://angelespinozae.github.io/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/)
+    - *In Preparation for the IMF Economic Review Special Issue "From Micro to Macro: Leveraging Microdata to Address Macroeconomic Issues"*
+    - [[IADB-TN-2398](https://publications.iadb.org/publications/english/document/Cross-Border-Intra-Firm-Trade-and-the-Propagation-of-Idiosyncratic-Shocks-A-New-Dataset.pdf)]
 
 * **["The Geography of Inventors and Local Knowledge Spillovers in R&D"](https://bcfujiy.github.io/img/papers/F_SpilloversRD.pdf)** with [Katia Gallegos](https://katiagallegost.github.io/)
     - [Supplementary Appendix (Not for publication)](https://bcfujiy.github.io/img/papers/F_SpilloversRD_SuppAppendix.pdf)
