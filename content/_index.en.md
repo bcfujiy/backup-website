@@ -19,8 +19,8 @@ bfujiy@gmail.com | brian.c.fujiy@census.gov \
 ## Published and Accepted Papers
 
 * **["How Shocks Travel: The Cross-Border Impact of Natural Disasters in Firm Networks"](https://bcfujiy.github.io/img/papers/AEFS_ShocksTravel.pdf)** with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/), [Angel Espinoza](https://angelespinozae.github.io/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/)
-    - ***Conditionally accepted at IMF Economic Review***
-    - [[IADB-TN2398](https://publications.iadb.org/publications/english/document/Cross-Border-Intra-Firm-Trade-and-the-Propagation-of-Idiosyncratic-Shocks-A-New-Dataset.pdf)]
+    - ***Accepted at IMF Economic Review***
+    - [[CES-26-55](https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-55.html)] [[IDB-WP-1884](https://publications.iadb.org/en/how-shocks-travel-cross-border-impact-natural-disasters-firm-networks)] [[IADB-TN2398](https://publications.iadb.org/publications/english/document/Cross-Border-Intra-Firm-Trade-and-the-Propagation-of-Idiosyncratic-Shocks-A-New-Dataset.pdf)]
 
 * **["Cultural Proximity and Inter-Firm Trade"](https://www.sciencedirect.com/science/article/pii/S0014292125001795?dgcid=author)** with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://hiroshitoma.github.io/)
     - ***European Economic Review (10/2025)***
@@ -46,19 +46,25 @@ bfujiy@gmail.com | brian.c.fujiy@census.gov \
 
 ## Work in progress
 
-* **"The Link between Fertility and Retirement and its Implications for Family Policy"** with [Ari Binder](https://www.arielbinder.com/), [Paula Calvo](https://www.paulacalvo.net/), [Long Hong](https://www.long-hong.com/), and [Joanna Venator](https://joannavenator.com/)
+* **"The Link between Fertility and Retirement and its Implications for Family Policy"** with [Ari Binder](https://www.arielbinder.com/), [Paula Calvo](https://www.paulacalvo.net/), [Long Hong](https://www.long-hong.com/) and [Joanna Venator](https://joannavenator.com/)
 
-* **"Fertility, Optimal Taxation, and Long-Run Growth"** with [Adrian Armas](https://lsa.umich.edu/econ/people/phd-students/aarmasb.html), and [Benjamin Glass](https://sites.google.com/view/benjamin-glass/home)
+* **"Fertility, Optimal Taxation and Long-Run Growth"** with [Adrian Armas](https://lsa.umich.edu/econ/people/phd-students/aarmasb.html) and [Benjamin Glass](https://sites.google.com/view/benjamin-glass/home)
 
-* **"Quantifying the Impact of A.I. on Productivity and Labor Demand: Evidence from U.S. Census Microdata"** with [Dean Alderucci](https://tuck.dartmouth.edu/faculty/faculty-directory/dean-alderucci), [Sagar V. Baviskar](https://scholar.google.com/citations?user=Fpdn_xAAAAAJ&hl=en), [Lee G. Branstetter](https://www.heinz.cmu.edu/faculty-research/profiles/branstetter-lee), [Nathan Goldschlag](https://sites.google.com/site/ngoldschlag), [Eduard Hovy](https://www.cs.cmu.edu/~hovy/), [Andrew Runge](https://scholar.google.com/citations?user=IPyFnGIAAAAJ&hl=en), [Prasanna Tambe](https://tambep.github.io/), and [Nikolas Zolas](https://sites.google.com/site/nikolaszolas/)
+* **"Quantifying the Impact of A.I. on Productivity and Labor Demand: Evidence from U.S. Census Microdata"** with [Dean Alderucci](https://tuck.dartmouth.edu/faculty/faculty-directory/dean-alderucci), [Sagar V. Baviskar](https://scholar.google.com/citations?user=Fpdn_xAAAAAJ&hl=en), [Lee G. Branstetter](https://www.heinz.cmu.edu/faculty-research/profiles/branstetter-lee), [Nathan Goldschlag](https://sites.google.com/site/ngoldschlag), [Eduard Hovy](https://www.cs.cmu.edu/~hovy/), [Andrew Runge](https://scholar.google.com/citations?user=IPyFnGIAAAAJ&hl=en), [Prasanna Tambe](https://tambep.github.io/) and [Nikolas Zolas](https://sites.google.com/site/nikolaszolas/)
 
-* **"Elite Talent and Firm Productivity in the Age of A.I."** with [Sagar V. Baviskar](https://scholar.google.com/citations?user=Fpdn_xAAAAAJ&hl=en), [Lee G. Branstetter](https://www.heinz.cmu.edu/faculty-research/profiles/branstetter-lee), [Cameron Drayton](https://scholar.google.com/citations?user=e-GcXEkAAAAJ&hl=en), [Eduard Hovy](https://www.cs.cmu.edu/~hovy/), [Prasanna Tambe](https://tambep.github.io/), and [Liujie Wu](https://www.heinz.cmu.edu/faculty-research/profiles/wu-liujie/)
+* **"Elite Talent and Firm Productivity in the Age of A.I."** with [Sagar V. Baviskar](https://scholar.google.com/citations?user=Fpdn_xAAAAAJ&hl=en), [Lee G. Branstetter](https://www.heinz.cmu.edu/faculty-research/profiles/branstetter-lee), [Cameron Drayton](https://scholar.google.com/citations?user=e-GcXEkAAAAJ&hl=en), [Eduard Hovy](https://www.cs.cmu.edu/~hovy/), [Prasanna Tambe](https://tambep.github.io/) and [Liujie Wu](https://www.heinz.cmu.edu/faculty-research/profiles/wu-liujie/)
 
-* **"Knowledge Spillovers and Research Productivity: Evidence from Acknowledgement Networks in Economics"** with [Barthelemy Bonadio](https://sites.google.com/view/bbonadio/home), [Rosario Didier](https://www.rosariod.com/), and [Hiroshi Toma](https://hiroshitoma.github.io/)
+* **"Knowledge Spillovers and Research Productivity: Evidence from Acknowledgement Networks in Economics"** with Alejandro Acosta, [Barthelemy Bonadio](https://sites.google.com/view/bbonadio/home), [Rosario Didier](https://www.rosariod.com/) and [Hiroshi Toma](https://hiroshitoma.github.io/)
 
 * **"Which Workers Pay? Job Mobility and Wage Responses to Firm-level Productivity Shocks and Implications for Worker Well-Being"** with [Ryan Fraser](https://lsa.umich.edu/econ/people/phd-students/rcfraser.html)
 
-* **"Currency Mismatches and Production Networks"** with [Miguel Acosta-Henao](http://miguelacostah.com/), and [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
+* **"Currency Mismatches and Production Networks"** with [Miguel Acosta-Henao](http://miguelacostah.com/) and [Maria A. Amado](https://sites.google.com/view/mariaalejandraamado/p%C3%A1gina-principal)
 
-* **"Economies of Scope in Transportation and Domestic Trade"** with [Johar Arrieta](https://joharav.github.io/), [Gaurav Khanna](https://www.econgaurav.com/), and [Brock Rowberry](https://lsa.umich.edu/econ/people/phd-students/brock-rowberry.html)
+* **"Economies of Scope in Transportation and Domestic Trade"** with [Johar Arrieta](https://joharav.github.io/), [Gaurav Khanna](https://www.econgaurav.com/) and [Brock Rowberry](https://lsa.umich.edu/econ/people/phd-students/brock-rowberry.html)
+
+---
+
+## CES Technical Notes (Restricted Access)
+
+* **["A New Revenue Imputation Model for Single-Unit Firms in the LBD"](https://www2.census.gov/ces/tn/CES-TN-2026-40.pdf)**
 
