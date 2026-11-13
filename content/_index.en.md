@@ -18,9 +18,9 @@ bfujiy@gmail.com | brian.c.fujiy@census.gov \
 
 ## Published and Accepted Papers
 
-* **["How Shocks Travel: The Cross-Border Impact of Natural Disasters in Firm Networks"](https://bcfujiy.github.io/img/papers/AEFS_ShocksTravel.pdf)** with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/), [Angel Espinoza](https://angelespinozae.github.io/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/)
-    - ***Accepted at IMF Economic Review***
-    - [[CES-26-55](https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-55.html)] [[IDB-WP-1884](https://publications.iadb.org/en/how-shocks-travel-cross-border-impact-natural-disasters-firm-networks)] [[IADB-TN2398](https://publications.iadb.org/publications/english/document/Cross-Border-Intra-Firm-Trade-and-the-Propagation-of-Idiosyncratic-Shocks-A-New-Dataset.pdf)]
+* **["How Shocks Travel: The Cross-Border Impact of Natural Disasters in Firm Networks"](https://link.springer.com/article/10.1057/s41308-026-00334-0)** with [Vanessa Alviarez](http://www.vanessaalviarezubc.com/), [Angel Espinoza](https://angelespinozae.github.io/) and [Tomasz Swiecki](https://sites.google.com/site/tomaszswiecki/)
+    - ***IMF Economic Review (11/2026)***
+    - [[Ungated version](https://rdcu.be/ARdwjB4HkUSa)] [[Final WP Version](https://bcfujiy.github.io/img/papers/AEFS_ShocksTravel.pdf)] [[CES-26-55](https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-55.html)] [[IDB-WP-1884](https://publications.iadb.org/en/how-shocks-travel-cross-border-impact-natural-disasters-firm-networks)] [[IADB-TN2398](https://publications.iadb.org/publications/english/document/Cross-Border-Intra-Firm-Trade-and-the-Propagation-of-Idiosyncratic-Shocks-A-New-Dataset.pdf)]
 
 * **["Cultural Proximity and Inter-Firm Trade"](https://www.sciencedirect.com/science/article/pii/S0014292125001795?dgcid=author)** with [Gaurav Khanna](https://www.econgaurav.com/) and [Hiroshi Toma](https://hiroshitoma.github.io/)
     - ***European Economic Review (10/2025)***
